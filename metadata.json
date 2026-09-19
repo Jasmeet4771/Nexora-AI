@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA AI",
+  "description": "AI-assisted municipal water intelligence platform. Detect earlier. Quantify the loss. Fix what matters first.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
